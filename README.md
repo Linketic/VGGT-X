@@ -149,7 +149,7 @@ Note that `-i` and `-r` are optional. Set them when you want to show image along
 ## 💕 Integration with Gaussian Splatting
 
 
-The exported COLMAP files can be directly used with [CityGaussian](https://github.com/Linketic/CityGaussian) for Gaussian Splatting training. This repo is based on [Gaussian Lightning](https://github.com/yzslab/gaussian-splatting-lightning) and supports various baselines such as MipSplatting and MCMC-3DGS. The guidance for joint pose and 3DGS optimization has also been incorporated in our repo.
+The exported COLMAP files can be directly used with [CityGaussian](https://github.com/Linketic/CityGaussian/blob/main/doc/vggt_x.md) for Gaussian Splatting training. This repo is based on [Gaussian Lightning](https://github.com/yzslab/gaussian-splatting-lightning) and supports various baselines such as MipSplatting and MCMC-3DGS. The guidance for joint pose and 3DGS optimization has also been incorporated in our repo.
 
 ## 🤗 Citation
 If you find this repository useful for your research, please use the following BibTeX entry for citation.
